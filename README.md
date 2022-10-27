@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and tecnology
 - 🌱 I’m currently learning Information Tecnologies
 - 📫 How to reach me.
-  > [Mr. Gabriele](mailto:elborghino@gmail.com?subject=[GitHub])
+  > [Mr. Gabriele](mailto:gabriele.dare@gdr00.it?subject=[GitHub])
 
 <!---
 gdr-00/gdr-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
