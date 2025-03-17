@@ -9,8 +9,11 @@
   > [Mr. Gabriele](mailto:gabriele.dare00@gmail.com?subject=[GitHub])
 
 ## My other projects other than GitHub
+Trainer site:
   > [Mattia Mognol Coach](https://mattiamognol.it)
-  > Soon: [KingDare](https://kingdare.com)
+
+Personal Project:
+  > [KingDare](https://kingdare.com)
 
 
 <!---
